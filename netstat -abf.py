@@ -1,0 +1,301 @@
+  TCP    192.168.249.49:55554   lax17s38-in-f3.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55555   66.175.232.167:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55557   lax31s12-in-f1.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55558   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55559   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55561   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55562   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55563   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55567   lax31s14-in-f10.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55570   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55571   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55572   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55573   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55575   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55576   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55577   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55580   lax31s16-in-f10.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55582   lax17s51-in-f2.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55584   lax31s16-in-f2.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55585   lax17s51-in-f2.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55586   lax31s16-in-f2.1e100.net:https  TIME_WAIT
+  TCP    192.168.249.49:55592   217-160-0-29.elastic-ssl.ui-r.com:https  ESTABLI
+SHED
+ [chrome.exe]
+  TCP    192.168.249.49:55594   217-160-0-29.elastic-ssl.ui-r.com:https  TIME_WA
+IT
+  TCP    192.168.249.49:55600   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55601   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55602   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55613   lga34s19-in-f14.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55615   ec2-52-24-211-242.us-west-2.compute.amazonaws.co
+m:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55616   lga34s19-in-f14.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55617   ec2-52-24-211-242.us-west-2.compute.amazonaws.co
+m:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55618   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55619   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55620   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55624   lax17s51-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55626   72.21.91.70:https      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55628   lax17s51-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55631   72.21.91.70:https      ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55634   lax17s51-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55635   lax17s51-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55640   104.244.42.129:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55645   104.244.42.65:https    ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55646   151.101.26.164:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55648   151.101.26.164:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55649   lax31s19-in-f4.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55650   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55651   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55652   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55653   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55657   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55658   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55660   lax17s50-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55661   lax17s50-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55662   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55663   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55664   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55667   lax31s16-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55668   lax31s16-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55672   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55673   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55676   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55677   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55678   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55682   lax31s16-in-f10.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55683   lax31s16-in-f10.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55689   lax17s50-in-f1.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55690   lax17s50-in-f1.1e100.net:https  FIN_WAIT_2
+ [chrome.exe]
+  TCP    192.168.249.49:55695   lax17s50-in-f1.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55698   lax17s51-in-f3.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55699   lax17s51-in-f3.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55700   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55701   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55702   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55703   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55704   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55705   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55706   lax31s01-in-f3.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55707   lax17s49-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55708   lax31s15-in-f4.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55709   lax31s15-in-f4.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55713   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55714   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55715   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55716   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55717   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55718   192.168.249.30:domain  TIME_WAIT
+  TCP    192.168.249.49:55722   lax31s01-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55724   lax31s01-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55725   lax31s01-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.249.49:55726   lax31s01-in-f2.1e100.net:https  ESTABLISHED
+ [chrome.exe]
+  TCP    [::]:7                 mylocyrus:0            LISTENING
+ [tcpsvcs.exe]
+  TCP    [::]:9                 mylocyrus:0            LISTENING
+ [tcpsvcs.exe]
+  TCP    [::]:13                mylocyrus:0            LISTENING
+ [tcpsvcs.exe]
+  TCP    [::]:17                mylocyrus:0            LISTENING
+ [tcpsvcs.exe]
+  TCP    [::]:19                mylocyrus:0            LISTENING
+ [tcpsvcs.exe]
+  TCP    [::]:80                mylocyrus:0            LISTENING
+ Can not obtain ownership information
+  TCP    [::]:135               mylocyrus:0            LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               mylocyrus:0            LISTENING
+ Can not obtain ownership information
+  TCP    [::]:3587              mylocyrus:0            LISTENING
+  p2pimsvc
+ [svchost.exe]
+  TCP    [::]:5357              mylocyrus:0            LISTENING
+ Can not obtain ownership information
+  TCP    [::]:49152             mylocyrus:0            LISTENING
+ [wininit.exe]
+  TCP    [::]:49153             mylocyrus:0            LISTENING
+  eventlog
+ [svchost.exe]
+  TCP    [::]:49154             mylocyrus:0            LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49158             mylocyrus:0            LISTENING
+ [lsass.exe]
+  TCP    [::]:49160             mylocyrus:0            LISTENING
+ [services.exe]
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55956  [2607:7700:0:35:0:1:68f
+4:2a82]:https  ESTABLISHED
+ [chrome.exe]
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55978  lax28s01-in-x0e.1e100.n
+et:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55979  lax28s01-in-x0e.1e100.n
+et:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55983  [2606:2800:220:1410:489
+:141e:20bb:12f6]:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55988  lax17s46-in-x0a.1e100.n
+et:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:55989  lax17s46-in-x0a.1e100.n
+et:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:56013  [2606:2800:220:1410:489
+:141e:20bb:12f6]:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:56022  lax31s12-in-x02.1e100.n
+et:https  TIME_WAIT
+  TCP    [2607:fb91:68c:515d:30e5:50ab:ea12:97d0]:56024  [2607:7700:0:35:0:1:68f
+4:2a01]:https  ESTABLISHED
+ [chrome.exe]
+  UDP    0.0.0.0:7              *:*
+ [tcpsvcs.exe]
+  UDP    0.0.0.0:9              *:*
+ [tcpsvcs.exe]
+  UDP    0.0.0.0:13             *:*
+ [tcpsvcs.exe]
+  UDP    0.0.0.0:17             *:*
+ [tcpsvcs.exe]
+  UDP    0.0.0.0:19             *:*
+ [tcpsvcs.exe]
+  UDP    0.0.0.0:161            *:*
+ [snmp.exe]
+  UDP    0.0.0.0:500            *:*
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*
+  EventSystem
+ [svchost.exe]
+  UDP    0.0.0.0:4500           *:*
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*
+ [chrome.exe]
+  UDP    0.0.0.0:5353           *:*
+ [chrome.exe]
+  UDP    0.0.0.0:5355           *:*
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:49153          *:*
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:49836          *:*
+  EventSystem
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:57695        *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.249.49:137     *:*
+ Can not obtain ownership information
+  UDP    192.168.249.49:138     *:*
+ Can not obtain ownership information
+  UDP    192.168.249.49:1900    *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.249.49:57694   *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:7                 *:*
+ [tcpsvcs.exe]
+  UDP    [::]:9                 *:*
+ [tcpsvcs.exe]
+  UDP    [::]:13                *:*
+ [tcpsvcs.exe]
+  UDP    [::]:17                *:*
+ [tcpsvcs.exe]
+  UDP    [::]:19                *:*
+ [tcpsvcs.exe]
+  UDP    [::]:161               *:*
+ [snmp.exe]
+  UDP    [::]:500               *:*
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3540              *:*
+  p2pimsvc
+ [svchost.exe]
+  UDP    [::]:3702              *:*
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*
+  EventSystem
+ [svchost.exe]
+  UDP    [::]:3702              *:*
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:4500              *:*
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*
+ [chrome.exe]
+  UDP    [::]:5355              *:*
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:49154             *:*
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:49837             *:*
+  EventSystem
+ [svchost.exe]
+  UDP    [::1]:1900             *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:57693            *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::31cc:fd88:28fd:aa5e%15]:1900  *:*
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::31cc:fd88:28fd:aa5e%15]:57692  *:*
+  SSDPSRV
+ [svchost.exe]
+
+elif condition: command
+    pass
